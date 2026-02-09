@@ -9,17 +9,4 @@
             font-family: Arial, sans-serif;
         }
 
-        h1 {
-            color: white;
-            font-size: 3rem;
-            padding: 20px 40px;
-            border-radius: 12px;
-            background: rgba(0, 0, 0, 0.2);
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-            letter-spacing: 2px;
-            transition: transform 0.3s ease;
-        }
-
-        h1:hover {
-            transform: scale(1.1);
-        }
+      
